@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #272727;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #cc4e89;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 3px 0 #2c2c2c;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: "Ubuntu", sans-serif;
+  color: #cc4e89;
+}
+
+footer {
+  margin: 5% auto 3%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+.w {
+  background-image: url(tom1.png);
+}
+
+.a {
+  background-image: url(tom2.png);
+}
+
+.s {
+  background-image: url(tom3.png);
+}
+
+.d {
+  background-image: url(tom4.png);
+}
+
+.j {
+  background-image: url(crash.png);
+}
+
+.k {
+  background-image: url(kick.png);
+}
+
+.l {
+  background-image: url(snare.png);
+}
+
+.set {
+  margin: 5% auto 10%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 3px solid #cc4e89;
+  font-size: 5rem;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 2;
+  font-weight: 900;
+  color: #cc4e89;
+  text-shadow: 2px 2px 5px rgb(85, 85, 85);
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+}
